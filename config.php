@@ -1,13 +1,13 @@
 <?php
 define('ROOT_PART', Root_part());
-define('APIKEY', 'AIzaSyCVkRcSiF0KmLCwmoo4edtw0vnSykCvFcc');
+define('APIKEY', 'AIzaSyCuhvp61_DcIeeIpQWSnvyyosOg6YZ1Zu8');
 define('GJ_CODE', 'US');
-define('SITE_NAME', 'y2b');
-define('TITLENAME', 'y2b');
-define('EN2DEKEY', '32123wwerwer323tgfdgds');
-define('EMAIL', '1334347212@qq.com');
-define('NAME', 'admin');
-define('PASSWORD', 'admin');
+define('SITE_NAME', 'redrain222');
+define('TITLENAME', 'redrain222');
+define('EN2DEKEY', 'a5545b6a5056398');
+define('EMAIL', 'sexyhome222@gmail.com');
+define('NAME', 'gyy222');
+define('PASSWORD', 'a5545b6ayxf@gmail.com');
 define('LOGINHTML', '<!DOCTYPE html>
 <html lang="en">
 <head>
